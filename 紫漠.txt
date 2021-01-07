@@ -1,0 +1,8 @@
+我是剑哥哥
+git stash :储存暂存区的代码
+    git stash save "fix 19876": 
+ 
+    更新代码：git pull
+
+   火麒麟
+   天龙
